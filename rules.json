@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "extensionPath": "/main.min.js"
+      }
+    },
+    "condition": {
+      "urlFilter": "https://easyeda.com/editor/6.5.42/js/main.min.js",
+      "resourceTypes": ["script"]
+    }
+  }
+]
