@@ -1,6 +1,7 @@
 # EasyEDA Font Injector
 
 ## Описание
+![Screenshot_1](https://github.com/ub3hzm/easyedaFontInjector/assets/162336679/d9c811dc-e174-4faf-8a8b-3a37a39763b1)
 
 **EasyEDA Font Injector** — это расширение для Chrome, которое добавляет новые шрифты для текста на схемах в EasyEDA STD версии 6.5.42. 
 
