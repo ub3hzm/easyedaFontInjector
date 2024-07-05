@@ -9,7 +9,7 @@
       }
     },
     "condition": {
-      "urlFilter": "https://easyeda.com/editor/6.5.42/js/main.min.js",
+      "urlFilter": "https://easyeda.com/editor/6.5.43/js/main.min.js",
       "resourceTypes": ["script"]
     }
   }
